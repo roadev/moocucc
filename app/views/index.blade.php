@@ -77,6 +77,7 @@ clase index.blade.php
 					<span class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="{{ URL::route('index') }}" style="padding: 0 15px;"><img src="{{URL::to('imagenes/logo.png')}}" width="50px" style="position:relative; top:6px;"></a>
+				<a class="btn btn-default">Buscar</a>
 			</div>
 
 			<!-- Agrupar los enlaces de navegación, los formularios y cualquier
