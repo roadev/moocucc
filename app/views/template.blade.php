@@ -27,10 +27,10 @@
 		//images_upload_url: 'postAcceptor.php',
 		 images_upload_base_path: '/some/basepath',
 		 images_upload_credentials: true,
-		image_prepend_url: "http://informaticaeducativaucc.com/imagenes/",
+		image_prepend_url: "http://mooc-roadev.rhcloud.com/imagenes/",
 		image_description: false,
 		toolbar: "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link jbimages",
-  	imagetools_cors_hosts: ['http:://informaticaeducativaucc.com/imagenes/']
+  	imagetools_cors_hosts: ['http://mooc-roadev.rhcloud.com/imagenes/']
 
 	});</script>
 	<!-- js -->
